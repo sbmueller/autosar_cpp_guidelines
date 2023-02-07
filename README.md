@@ -7,7 +7,7 @@ using [mdbook](https://github.com/rust-lang/mdBook).
 Due to the automatic generation of this book, please expect wrongly formatted
 content, content in the wrong section or even missing content.
 
-The source for this book is available at [1].
+The source for this book is available at [2].
 
 ## Content Generation
 
@@ -42,4 +42,5 @@ The parts of this repository that do not originate from [1] are licensed with
 the GPL 3.0 license. Also see [LICENSE](./LICENSE).
 
 [1] "Guidelines for the use of the C++14 language in critical and safety-related systems AUTOSAR AP Release 19-03"
-[2] https://github.com/sbmueller/autosar_cpp_guidelines
+
+[2] [GitHub](https://github.com/sbmueller/autosar_cpp_guidelines)
