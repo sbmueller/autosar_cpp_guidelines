@@ -41,6 +41,6 @@ purposes only in accordance with its disclaimer.
 The parts of this repository that do not originate from [1] are licensed with
 the GPL 3.0 license. Also see [LICENSE](./LICENSE).
 
-[1] "Guidelines for the use of the C++14 language in critical and safety-related systems AUTOSAR AP Release 19-03"
+[1] [Guidelines for the use of the C++14 language in critical and safety-related systems AUTOSAR AP Release 19-03](https://www.autosar.org/fileadmin/standards/adaptive/22-11/AUTOSAR_RS_CPP14Guidelines.pdf)
 
 [2] [GitHub](https://github.com/sbmueller/autosar_cpp_guidelines)
